@@ -1,0 +1,10 @@
+COMP SCI 2XB3 and SFWR ENG 2XB3
+
+Kerala Brendon		001424625	 Documentation, User Interface
+Vyome Kishore		001406201	 Programmer
+Areeb Malik 		001418940	 User interface designer
+Aaska Shah 			001422791	 Log Admin, testing designer
+Nolan Slade			001401079	 Team leader, programmer
+
+Today, Mon April 11, we attest to the fact that the work being
+submitted is our own group work.
